@@ -1,3 +1,7 @@
+# View live site
+https://selfstorage.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3a3ff58a-c3ae-4d51-bff0-a14d192d00fe/deploy-status)](https://app.netlify.com/sites/selfstorage/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
