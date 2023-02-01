@@ -73,7 +73,6 @@ function Home() {
         </div>
        </div>
       </section>
-
       <section className='featured-post container'>
        <h3 className='text-center text-uppercase pt-4'>LATEST POSTS</h3>
        <div className='row'>
@@ -115,9 +114,6 @@ function Home() {
         </div>
        </div>
        </section>
-
-      
-
        <section className='featured-post container'>
        <h3 className='text-center text-uppercase py-4'>OUR PORTFOLIO</h3>
        <div className="container">
@@ -145,11 +141,9 @@ function Home() {
        </div>
      </div>
        </section>
-
        <section className="testimonials">
        <h3 className='text-center text-uppercase py-4'>TESTIMONIALS</h3>
        <section>
-  
        <div className="row text-center  text-uppercase pt-4">
          <div className="col-md-6 mb-4 mb-md-0">
            <div className="d-flex justify-content-center mb-4">
@@ -181,7 +175,6 @@ function Home() {
          </div>
        </div>
      </section>
-     
        </section>
     </div>
   )
