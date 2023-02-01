@@ -114,6 +114,13 @@ function Home() {
         </div>
        </div>
        </section>
+       <section className='container-fluid bg-primary bg-gradient mt-4' style={{minHight: "150px"}}>
+           <div className='d-flex flex-column justify-content-center align-items-center'>
+           <i class="fs-1 text-warning my-3  fa-solid fa-location-dot"></i>
+           <h3 className='text-white text-uppercase'>We have wide variety of posts</h3>
+           <button className='btn btn-warning my-2 text-dark text-uppercase'>View All Posts</button>
+           </div>
+       </section>
        <section className='featured-post container'>
        <h3 className='text-center text-uppercase py-4'>OUR PORTFOLIO</h3>
        <div className="container">
@@ -176,6 +183,7 @@ function Home() {
        </div>
      </section>
        </section>
+
     </div>
   )
 }
