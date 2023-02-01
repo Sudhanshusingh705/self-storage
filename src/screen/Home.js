@@ -39,7 +39,7 @@ function Home() {
            <div className='card'>
            <img src="https://media.istockphoto.com/id/683754162/photo/success-concept.jpg?s=612x612&w=0&k=20&c=YWDg7OeSDmCaQJ0tsXOP_ruaYlrKuaQ63P2xeghBSY0=" className="card-img-top" alt="..."/>
            <div className="card-body">
-             <h5 className="card-title">Card title</h5>
+             <h5 className="card-title">Home Storage</h5>
              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
              <div className='d-grid'>
              <a href="#" className="btn btn-warning">Read More</a>
@@ -51,7 +51,7 @@ function Home() {
           <div className='card'>
           <img src="https://media.istockphoto.com/id/685018656/photo/workplace-with-laptop-coffee-and-sketch.jpg?s=612x612&w=0&k=20&c=l9U-B21BJaDGqAVtbezfpg4r7prftk494kjxvgIE9GA=" className="card-img-top" alt="..."/>
           <div className="card-body">
-            <h5 className="card-title">Card title</h5>
+            <h5 className="card-title">Business Storage</h5>
             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
             <div className='d-grid'>
              <a href="#" className="btn btn-warning">Read More</a>
@@ -63,7 +63,7 @@ function Home() {
          <div className='card'>
          <img src="https://media.istockphoto.com/id/977409376/photo/coffee-cup-and-digital-table-dock-smart-keyboard-vase-flower-herbs-stylus-pen-on-wooden-table.jpg?s=612x612&w=0&k=20&c=o3qQRinO_8Y4hO5rJbQeJ9aBCcmcpPMJmTT8pX4ahIw=" className="card-img-top" alt="..."/>
          <div className="card-body">
-           <h5 className="card-title">Card title</h5>
+           <h5 className="card-title">Company Storage</h5>
            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
            <div className='d-grid'>
              <a href="#" className="btn btn-warning">Read More</a>
@@ -80,7 +80,7 @@ function Home() {
         <div className='card'>
         <img src="https://media.istockphoto.com/id/683754162/photo/success-concept.jpg?s=612x612&w=0&k=20&c=YWDg7OeSDmCaQJ0tsXOP_ruaYlrKuaQ63P2xeghBSY0=" className="card-img-top" alt="..."/>
         <div className="card-body">
-          <h5 className="card-title">Card title</h5>
+          <h5 className="card-title">Profit Margin</h5>
           <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           <div className='d-grid'>
           <a href="#" className="btn btn-warning">Read More</a>
@@ -92,7 +92,7 @@ function Home() {
          <div className='card'>
          <img src="https://media.istockphoto.com/id/977409376/photo/coffee-cup-and-digital-table-dock-smart-keyboard-vase-flower-herbs-stylus-pen-on-wooden-table.jpg?s=612x612&w=0&k=20&c=o3qQRinO_8Y4hO5rJbQeJ9aBCcmcpPMJmTT8pX4ahIw=" className="card-img-top" alt="..."/>
          <div className="card-body">
-           <h5 className="card-title">Card title</h5>
+           <h5 className="card-title">Annual Revenue</h5>
            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
            <div className='d-grid'>
              <a href="#" className="btn btn-warning">Read More</a>
@@ -104,7 +104,7 @@ function Home() {
          <div className='card'>
          <img src="https://media.istockphoto.com/id/977409376/photo/coffee-cup-and-digital-table-dock-smart-keyboard-vase-flower-herbs-stylus-pen-on-wooden-table.jpg?s=612x612&w=0&k=20&c=o3qQRinO_8Y4hO5rJbQeJ9aBCcmcpPMJmTT8pX4ahIw=" className="card-img-top" alt="..."/>
          <div className="card-body">
-           <h5 className="card-title">Card title</h5>
+           <h5 className="card-title">Storage Units</h5>
            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
            <div className='d-grid'>
              <a href="#" className="btn btn-warning">Read More</a>

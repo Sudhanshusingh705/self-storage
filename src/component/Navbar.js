@@ -16,6 +16,9 @@ function Navbar  ()  {
             <NavLink className="nav-link  text-uppercase" to="/">HOME </NavLink>
           </li>
           <li className="nav-item">
+            <NavLink className="nav-link  text-uppercase" to="login">LOGIN </NavLink>
+          </li>
+          <li className="nav-item">
             <NavLink className="nav-link  text-uppercase" to="about">ABOUT </NavLink>
           </li>
           <li className="nav-item">

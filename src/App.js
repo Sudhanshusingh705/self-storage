@@ -4,6 +4,7 @@ import Footer from './component/Footer';
 import Home from './screen/Home';
 import About from './screen/About';
 import Contact from './screen/Contact';
+import Login from './screen/Login';
 import  {BrowserRouter as Router, Routes, Route}  from 'react-router-dom'
 
 
@@ -16,6 +17,7 @@ function App() {
           <Route excat path="/" element={<Home />} > </Route>
           <Route exact path="/about" element={<About />} > </Route>
           <Route exact path="/contact" element={<Contact />} > </Route>
+          <Route exact path="/login" element={<Login />} > </Route>
         </Routes>
         <Footer></Footer>
       </div>
